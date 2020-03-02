@@ -2,7 +2,7 @@
 /**
  * Category Template
  *
- * Displays an archive index of posts assigned to a Category.
+ * Displays an archive index of posts assigned to a Category..
  *
  * @package Thematic
  * @subpackage Templates
